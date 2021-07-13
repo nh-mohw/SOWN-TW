@@ -1,6 +1,6 @@
 ## 2021年世界護理現況：臺灣護理現況（SOWN Taiwan Profile）
-![image](https://user-images.githubusercontent.com/84058574/125400632-b72a8d80-e3e4-11eb-8e2f-5ece4a590bf6.png | width=100) 
-![image](https://user-images.githubusercontent.com/84058574/125400608-ae39bc00-e3e4-11eb-807a-07e8b72c59f1.png | width=100)
+![image](https://user-images.githubusercontent.com/84058574/125400632-b72a8d80-e3e4-11eb-8e2f-5ece4a590bf6.png){:height="50%" width="50%"}
+![image](https://user-images.githubusercontent.com/84058574/125400608-ae39bc00-e3e4-11eb-807a-07e8b72c59f1.png){:height="50%" width="50%"}
 
 **指標** | **本國**
 ------------ | -------------
