@@ -58,11 +58,11 @@
 
 ### **護理人員年齡分布**
 
-<p><iframe   frameborder="0" height="600" id="myVideo" src="年齡.html" width="100%"></iframe></p>
+<p><iframe   frameborder="0" height="600" id="AGE" src="年齡.html" width="100%"></iframe></p>
 
 ### **護理人員性別分布**
 
-<p><iframe   frameborder="0" height="600" id="myVideo" src="性別.html" width="100%"></iframe></p>
+<p><iframe   frameborder="0" height="600" id="SEX" src="性別.html" width="100%"></iframe></p>
 
 ### **護理人員流動性**
 
@@ -71,9 +71,9 @@
 
 ### **護理人員於5類醫事人員中的占比**
 
-<p><button onclick="document.getElementById('myVideo').src='人人圖.html'" style="height:30px;">中文版</button><button onclick="document.getElementById('myVideo').src='Isotype.html'" style="height:30px;">English</button></p>
+<p><button onclick="document.getElementById('RATIO').src='人人圖.html'" style="height:30px;">中文版</button><button onclick="document.getElementById('RATIO').src='Isotype.html'" style="height:30px;">English</button></p>
 
-<p><iframe   frameborder="0" height="600" id="myVideo" src="人人圖.html" width="100%"></iframe></p>
+<p><iframe   frameborder="0" height="600" id="RATIO" src="人人圖.html" width="100%"></iframe></p>
 
 ### **護理教育統計**
 <p><button onclick="document.getElementById('EDU').src='畢業生.html'" style="height:30px;">畢業生</button>
