@@ -20,7 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-- [x]
+- ![image](https://user-images.githubusercontent.com/84058574/125399621-6e260980-e3e3-11eb-90d4-303bfe6675ca.png)
+- &check;
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
