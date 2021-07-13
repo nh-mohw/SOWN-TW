@@ -32,8 +32,15 @@
       <br></td>
  </tr>
  <tr>
-    <td></td>
-    <td>Lorem ipsum ...</td>
+    <td><b>## 工作條件</b>
+     <br>- [X] 工作時間規範
+     <br>- [X] 最低工資規範
+     <br>- [X] 職業安全規範
+     <br>- [X] 暴力防範措施</td>
+    <td><b>## 治理領導</b>
+     <br>- [X] 護理專責機關
+     <br>- [X] 護理領導培育
+     <br>- [X] 護理學生團體</td>
  </tr>
 </table>
 ## 教育規範 
@@ -78,24 +85,3 @@
 1. [2020年國際護理現況報告（State of the World’s Nursing Report – 2020）](https://www.who.int/publications-detail/nursing-report-2020)
 2. [2020年世界各國護理現況（State of the world’s nursing 2020 - сountry profiles）](https://apps.who.int/nhwaportal/Sown/Index)
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
