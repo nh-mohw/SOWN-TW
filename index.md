@@ -20,14 +20,21 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-- ![image](https://user-images.githubusercontent.com/84058574/125399621-6e260980-e3e3-11eb-90d4-303bfe6675ca.png)
-- &check;
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+- &check;
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 ### **近年護理人力與密度**
 
