@@ -30,9 +30,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-<p><button onclick="document.getElementById('myVideo').src='https://www.youtube.com/embed/V8M72bsoIkE'" style="height:30px;">中文版</button><button onclick="document.getElementById('myVideo').src='https://www.youtube.com/embed/qxMJP1UyK50'" style="height:30px;">English</button></p>
+<p><button onclick="document.getElementById('myVideo').src='https://github.com/nh-mohw/SOWN-TW/blob/59c3a734f086e4cf4497ff65b45ca29a5f95b39a/%E4%BA%BA%E4%BA%BA%E5%9C%96.html'" style="height:30px;">中文版</button><button onclick="document.getElementById('myVideo').src='https://github.com/nh-mohw/SOWN-TW/blob/59c3a734f086e4cf4497ff65b45ca29a5f95b39a/Isotype.html'" style="height:30px;">English</button></p>
 
-<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="460" id="myVideo" src="https://www.youtube.com/embed/V8M72bsoIkE" width="100%"></iframe></p>
+<p><iframe  frameborder="0" height="460" id="myVideo" src="https://github.com/nh-mohw/SOWN-TW/blob/59c3a734f086e4cf4497ff65b45ca29a5f95b39a/%E4%BA%BA%E4%BA%BA%E5%9C%96.html" width="100%"></iframe></p>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nh-mohw/SOWN-TW/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
