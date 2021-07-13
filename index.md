@@ -66,6 +66,9 @@
 
 ### **護理人員流動性**
 
+- 國外訓練：無
+- 非本國籍：0.09%
+
 ### **護理人員於5類醫事人員中的占比**
 
 <p><button onclick="document.getElementById('myVideo').src='人人圖.html'" style="height:30px;">中文版</button><button onclick="document.getElementById('myVideo').src='Isotype.html'" style="height:30px;">English</button></p>
