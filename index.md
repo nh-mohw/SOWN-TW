@@ -1,4 +1,4 @@
-# 2021年世界護理現況：臺灣護理現況（SOWN Taiwan Profile）
+# **2021年世界護理現況：臺灣護理現況（SOWN Taiwan Profile）**
 ![image](https://user-images.githubusercontent.com/84058574/125400632-b72a8d80-e3e4-11eb-8e2f-5ece4a590bf6.png){:height="20%" width="20%"}  ![image](https://user-images.githubusercontent.com/84058574/125400608-ae39bc00-e3e4-11eb-807a-07e8b72c59f1.png){:height="22%" width="22%"}
 
 **指標** | **本國**
@@ -38,6 +38,13 @@
 - [X] 護理專責機關
 - [X] 護理領導培育
 - [X] 護理學生團體
+
+護理人員 (最新年度) |  ：  | 179630  |  -  
+------------ | ------------- | ------------- | -------------
+護理專業人員<br>護理師/專師<br>161853 | 護士<br><br>17777 | 未明確定義之<br>護理人員<br>無 | -   
+專業護理人員<br>比例(%) <br>90% | 密度<br>76.4<br>每萬人口 | 每年畢業生(人)<br><br>14457 | 最短訓練時間<br><br>4年
+
+
 
 ### **近年護理人力與密度**
 
