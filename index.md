@@ -64,9 +64,9 @@
 <p><iframe  scrolling="no" frameborder="0" height="600" id="myVideo" src="人人圖.html" width="100%"></iframe></p>
 
 ### **護理教育統計**
-<p><button onclick="document.getElementById('EDU').src='畢業生.html'" style="height:30px;">中文版</button>
-  <button onclick="document.getElementById('EDU').src='在學生.html'" style="height:30px;">English</button>
-  <button onclick="document.getElementById('EDU').src='老師.html'" style="height:30px;">English</button></p>
+<p><button onclick="document.getElementById('EDU').src='畢業生.html'" style="height:30px;">畢業生</button>
+  <button onclick="document.getElementById('EDU').src='在學生.html'" style="height:30px;">在學生</button>
+  <button onclick="document.getElementById('EDU').src='老師.html'" style="height:30px;">護理教師</button></p>
 
 <p><iframe  scrolling="no" frameborder="0" height="600" id="EDU" src="畢業生.html" width="100%"></iframe></p>
 
