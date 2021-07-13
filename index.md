@@ -68,7 +68,7 @@
   <button onclick="document.getElementById('EDU').src='在學生.html'" style="height:30px;">在學生</button>
   <button onclick="document.getElementById('EDU').src='老師.html'" style="height:30px;">護理教師</button></p>
 
-<p><iframe   frameborder="0" height="700" id="EDU" src="畢業生.html" width="100%"></iframe></p>
+<p><iframe   frameborder="0" height="600" id="EDU" src="畢業生.html" width="100%"></iframe></p>
 
 
 ### ▍延伸閱讀
