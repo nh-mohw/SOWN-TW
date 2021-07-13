@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.8.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+<div class="vega-visualization" id="vega-visualization-31c60d8f8a3640c1a15d61d66815fc2e"></div>
+<script type="text/javascript">
+  const spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"data": {"name": "data-fa532e8cf0d560e05bbc378dbd32867a"}, "mark": {"type": "point", "filled": true, "size": 50}, "encoding": {"color": {"type": "nominal", "field": "index"}, "shape": {"value": "M1.7 -1.7h-0.8c0.3 -0.2 0.6 -0.5 0.6 -0.9c0 -0.6 -0.4 -1 -1 -1c-0.6 0 -1 0.4 -1 1c0 0.4 0.2 0.7 0.6 0.9h-0.8c-0.4 0 -0.7 0.3 -0.7 0.6v1.9c0 0.3 0.3 0.6 0.6 0.6h0.2c0 0 0 0.1 0 0.1v1.9c0 0.3 0.2 0.6 0.3 0.6h1.3c0.2 0 0.3 -0.3 0.3 -0.6v-1.8c0 0 0 -0.1 0 -0.1h0.2c0.3 0 0.6 -0.3 0.6 -0.6v-2c0.2 -0.3 -0.1 -0.6 -0.4 -0.6z"}, "size": {"value": 2000}, "x": {"type": "nominal", "axis": null, "field": "index"}}, "height": 500, "width": 500}, {"data": {"name": "data-fa532e8cf0d560e05bbc378dbd32867a"}, "mark": {"type": "text", "baseline": "middle"}, "encoding": {"color": {"value": "white"}, "size": {"value": 50}, "text": {"type": "quantitative", "field": "PercentOfTotal"}, "tooltip": [{"type": "nominal", "field": "index", "title": "\u6027\u5225"}, {"type": "quantitative", "field": "\u4eba\u6578"}, {"type": "quantitative", "field": "PercentOfTotal"}], "x": {"type": "nominal", "axis": null, "field": "index"}}, "height": 500, "transform": [{"joinaggregate": [{"op": "sum", "field": "\u4eba\u6578", "as": "Total"}]}, {"calculate": "round(datum.\u4eba\u6578 / datum.Total * 100, 0)", "as": "PercentOfTotal"}], "width": 500}], "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-fa532e8cf0d560e05bbc378dbd32867a": [{"index": "F", "\u4eba\u6578": 172993}, {"index": "M", "\u4eba\u6578": 6521}]}};
+  const embedOpt = {};
+  vegaEmbed('#vega-visualization-31c60d8f8a3640c1a15d61d66815fc2e', spec, embedOpt).catch(console.error);
+</script>
+</body>
+</html>
