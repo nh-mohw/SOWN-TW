@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 2021年世界護理現況：臺灣護理現況（SOWN Taiwan Profile）
 
 You can use the [editor on GitHub](https://github.com/nh-mohw/SOWN-TW/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+- [x]
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -28,14 +28,21 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### **近年護理人力與密度**
+
+### **護理人員年齡分布**
+
+### **護理人員性別分布**
+
+### **護理人員流動性**
+
+
+### **護理人員於5類醫事人員中的占比**
 
 <p><button onclick="document.getElementById('myVideo').src='人人圖.html'" style="height:30px;">中文版</button><button onclick="document.getElementById('myVideo').src='Isotype.html'" style="height:30px;">English</button></p>
 
-<p><iframe  frameborder="0" height="460" id="myVideo" src="人人圖.html" width="100%"></iframe></p>
+<p><iframe  frameborder="0" height="500" id="myVideo" src="人人圖.html" width="100%"></iframe></p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nh-mohw/SOWN-TW/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### ▍延伸閱讀
+1. [2020年國際護理現況報告（State of the World’s Nursing Report – 2020）](https://www.who.int/publications-detail/nursing-report-2020)
+2. [2020年世界各國護理現況（State of the world’s nursing 2020 - сountry profiles）](https://apps.who.int/nhwaportal/Sown/Index)
