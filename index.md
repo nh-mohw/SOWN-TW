@@ -13,28 +13,28 @@
 平均每人經常性醫療保健支出-美元(衛福部, 2019) | **1585**
 
 ## 教育規範
-- :heavy_check_mark: 正式教育機構公告
-- :heavy_check_mark: 教育機構認可機制
-- :heavy_check_mark: 教育年數標準規範
-- :heavy_check_mark: 跨域專業教育標準
-- :heavy_check_mark: 教育人員資格規範
+![:heavy_check_mark:] 正式教育機構公告
+![:heavy_check_mark:] 教育機構認可機制
+![:heavy_check_mark:] 教育年數標準規範
+![:heavy_check_mark:] 跨域專業教育標準
+![:heavy_check_mark:] 教育人員資格規範
 
 ## 執業規範
-- :heavy_check_mark: 護理決策機制
-- :heavy_check_mark: 執業適合監測
-- :heavy_check_mark: 護理專業發展
-- :heavy_check_mark: 進階護理角色
+![:heavy_check_mark:] 護理決策機制
+![:heavy_check_mark:] 執業適合監測
+![:heavy_check_mark:] 護理專業發展
+![:heavy_check_mark:] 進階護理角色
 
 ## 工作條件
-- :heavy_check_mark: 工作時間規範
-- :heavy_check_mark: 最低工資規範
-- :heavy_check_mark: 職業安全規範
-- :heavy_check_mark: 暴力防範措施
+![:heavy_check_mark:] 工作時間規範
+![:heavy_check_mark:] 最低工資規範
+![:heavy_check_mark:] 職業安全規範
+![:heavy_check_mark:] 暴力防範措施
 
 ## 治理領導
-- :heavy_check_mark: 護理專責機關
-- :heavy_check_mark: 護理領導培育
-- :heavy_check_mark: 護理學生團體
+![:heavy_check_mark:] 護理專責機關
+![:heavy_check_mark:] 護理領導培育
+![:heavy_check_mark:] 護理學生團體
 
 ### **近年護理人力與密度**
 
