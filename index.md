@@ -54,7 +54,7 @@
 ### **近年護理人力與密度**
 <p><button onclick="document.getElementById('Density').src='人力與密度.html'" style="height:30px;">中文版</button><button onclick="document.getElementById('Density').src='stock-density-bar.html'" style="height:30px;">English</button></p>
 
-<p><iframe  scrolling="no" frameborder="0" height="500" id="Density" src="人力與密度.html" width="100%"></iframe></p>
+<p><iframe  frameborder="0" height="500" id="Density" src="人力與密度.html" width="100%"></iframe></p>
 
 ### **護理人員年齡分布**
 
@@ -66,7 +66,7 @@
 
 <p><button onclick="document.getElementById('myVideo').src='人人圖.html'" style="height:30px;">中文版</button><button onclick="document.getElementById('myVideo').src='Isotype.html'" style="height:30px;">English</button></p>
 
-<p><iframe  scrolling="no" frameborder="0" height="600" id="myVideo" src="人人圖.html" width="100%"></iframe></p>
+<p><iframe   frameborder="0" height="600" id="myVideo" src="人人圖.html" width="100%"></iframe></p>
 
 ### **護理教育統計**
 <p><button onclick="document.getElementById('EDU').src='畢業生.html'" style="height:30px;">畢業生</button>
