@@ -49,7 +49,7 @@
 ### **近年護理人力與密度**
 <p><button onclick="document.getElementById('Density').src='人力與密度.html'" style="height:30px;">中文版</button><button onclick="document.getElementById('Density').src='stock-density-bar.html'" style="height:30px;">English</button></p>
 
-<p><iframe  scrolling="no" frameborder="0" height="600" id="Density" src="人力與密度.html" width="100%"></iframe></p>
+<p><iframe  scrolling="no" frameborder="0" height="500" id="Density" src="人力與密度.html" width="100%"></iframe></p>
 
 ### **護理人員年齡分布**
 
