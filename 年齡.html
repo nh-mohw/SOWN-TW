@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.8.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+<div class="vega-visualization" id="vega-visualization-946394744a3d4fb7b57b5f63fe98b511"></div>
+<script type="text/javascript">
+  const spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-c84b7622877df76316acdf657176aa5a"}, "mark": "bar", "encoding": {"color": {"type": "nominal", "field": "index"}, "size": {"value": 50}, "tooltip": [{"type": "ordinal", "field": "index", "title": "\u5e74\u9f61"}, {"type": "quantitative", "field": "\u4eba\u6578"}, {"type": "quantitative", "field": "PercentOfTotal", "title": "\u767e\u5206\u6bd4"}], "x": {"type": "quantitative", "field": "PercentOfTotal", "title": null}, "y": {"type": "ordinal", "field": "index", "title": "\u5e74\u9f61Age"}}, "height": 500, "transform": [{"joinaggregate": [{"op": "sum", "field": "\u4eba\u6578", "as": "Total"}]}, {"calculate": "round(datum['\u4eba\u6578'] / datum.Total * 100, 0)", "as": "PercentOfTotal"}], "width": 500, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-c84b7622877df76316acdf657176aa5a": [{"index": "34-55", "\u4eba\u6578": 101264}, {"index": "< 34", "\u4eba\u6578": 67648}, {"index": "> 55", "\u4eba\u6578": 10530}]}};
+  const embedOpt = {};
+  vegaEmbed('#vega-visualization-946394744a3d4fb7b57b5f63fe98b511', spec, embedOpt).catch(console.error);
+</script>
+</body>
+</html>
