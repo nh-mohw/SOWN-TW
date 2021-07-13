@@ -58,6 +58,8 @@
 
 ### **護理人員年齡分布**
 
+<p><iframe   frameborder="0" height="600" id="myVideo" src="年齡.html" width="100%"></iframe></p>
+
 ### **護理人員性別分布**
 
 <p><iframe   frameborder="0" height="600" id="myVideo" src="性別.html" width="100%"></iframe></p>
