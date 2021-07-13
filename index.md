@@ -1,4 +1,4 @@
-## 2021年世界護理現況：臺灣護理現況（SOWN Taiwan Profile）
+# 2021年世界護理現況：臺灣護理現況（SOWN Taiwan Profile）
 ![image](https://user-images.githubusercontent.com/84058574/125400632-b72a8d80-e3e4-11eb-8e2f-5ece4a590bf6.png){:height="20%" width="20%"}  ![image](https://user-images.githubusercontent.com/84058574/125400608-ae39bc00-e3e4-11eb-807a-07e8b72c59f1.png){:height="22%" width="22%"}
 
 **指標** | **本國**
@@ -16,33 +16,6 @@
 ```markdown
 
 ```
-<table border="0">
- <tr>
-    <td><b>教育規範</b>
-      <br>[X] 正式教育機構公告
-      <br>[X] 教育機構認可機制 
-      <br>[X] 教育年數標準規範 
-      <br>[X] 跨域專業教育標準 
-      <br>[X] 教育人員資格規範</td>
-    <td><b>執業規範</b>
-      <br>[X] 護理決策機制
-      <br>[X] 執業適合監測
-      <br>[X] 護理專業發展 
-      <br>[X] 進階護理角色
-      <br></td>
- </tr>
- <tr>
-    <td><b>工作條件</b>
-     <br>[X] 工作時間規範
-     <br>[X] 最低工資規範
-     <br>[X] 職業安全規範
-     <br>[X] 暴力防範措施</td>
-    <td><b>治理領導</b>
-     <br>[X] 護理專責機關
-     <br>[X] 護理領導培育
-     <br>[X] 護理學生團體</td>
- </tr>
-</table>
 ## 教育規範 
 - [X] 正式教育機構公告 
 - [X] 教育機構認可機制 
