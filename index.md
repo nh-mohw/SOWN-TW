@@ -41,7 +41,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <p><button onclick="document.getElementById('myVideo').src='人人圖.html'" style="height:30px;">中文版</button><button onclick="document.getElementById('myVideo').src='Isotype.html'" style="height:30px;">English</button></p>
 
-<p><iframe  frameborder="0" height="500" id="myVideo" src="人人圖.html" width="100%"></iframe></p>
+<p><iframe  overflow: "hidden" frameborder="0" height="600" id="myVideo" src="人人圖.html" width="100%"></iframe></p>
 
 ### ▍延伸閱讀
 1. [2020年國際護理現況報告（State of the World’s Nursing Report – 2020）](https://www.who.int/publications-detail/nursing-report-2020)
